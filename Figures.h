@@ -15,7 +15,6 @@
 
 #include "Window.h"
 #include "Rendering.h"
-#include "Logining.h"
 #include "Vertices.h"
 #include <vector>
 
